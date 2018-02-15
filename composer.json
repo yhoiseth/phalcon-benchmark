@@ -10,5 +10,7 @@
             "email": "yngve@hoiseth.net"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-phalcon": "^3.3"
+    }
 }
