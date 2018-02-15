@@ -4,6 +4,10 @@
 2. `composer install`
 3. `vendor/bin/phalcon.php serve`
 
+# Run tests
+
+`vendor/bin/codecept run`
+
 ## Hello World
 
 1. `git checkout helloworld`

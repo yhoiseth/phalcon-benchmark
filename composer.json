@@ -2,7 +2,8 @@
     "name": "yhoiseth/phalcon-benchmark",
     "type": "project",
     "require-dev": {
-        "phalcon/devtools": "^3.2"
+        "phalcon/devtools": "^3.2",
+        "codeception/codeception": "^2.3"
     },
     "authors": [
         {
